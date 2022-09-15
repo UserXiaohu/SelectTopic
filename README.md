@@ -38,7 +38,7 @@ JAVA语言进行开发，采用SSM框架开发后端，数据库选用MySQL，�
 
 ## 五、**系统架构**
 
-![img](https://github.com/UserXiaohu/SelectTopic/img\wps1.jpg) 
+![img](https://github.com/UserXiaohu/SelectTopic/img/wps1.jpg) 
 
 ## 六、**运行截图**
 
