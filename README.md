@@ -42,7 +42,7 @@ JAVA语言进行开发，采用SSM框架开发后端，数据库选用MySQL，�
 
 ## 六、**运行截图**
 
-![img](file:///.\img\bg.jpg)
+![img](file:///\img\bg.jpg)
 
 ![img](file:///.\img\wps2.jpg) 
 
