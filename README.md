@@ -1,6 +1,6 @@
 ## 一、项目获取
 
-项目下载地址：http://shiyuncode.com/details?id=41
+项目下载地址：https://shiyuncode.com/details?goodsCode=C00041
 
 博客地址：https://blog.csdn.net/m0_47220500/article/details/126866947
 
